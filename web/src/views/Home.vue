@@ -22,7 +22,6 @@ export default {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 60px 15px;
 }
 .text{
   max-width: 600px;

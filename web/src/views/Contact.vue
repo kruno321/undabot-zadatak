@@ -1,10 +1,14 @@
 <template>
-  <div class="contact"></div>
+  <div class="contact">
+    <Form/>
+  </div>
 </template>
 
 <script>
+import Form from "../components/Form";
+
 export default {
   name: "Contact",
-  components: {}
+  components: { Form }
 };
 </script>
