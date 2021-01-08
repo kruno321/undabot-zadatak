@@ -22,8 +22,9 @@ export default {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  margin-top: 60px;
 }
-.text{
+.text {
   max-width: 600px;
   text-align: center;
 }
